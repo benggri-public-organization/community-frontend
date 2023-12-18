@@ -1,10 +1,4 @@
-'use client'
-
-export default function BoardFreePage({
-  params
-}:{
-  params : { type : string }
-}) {
+export default function BoardFreePage() {
   return (
     <div>
 
